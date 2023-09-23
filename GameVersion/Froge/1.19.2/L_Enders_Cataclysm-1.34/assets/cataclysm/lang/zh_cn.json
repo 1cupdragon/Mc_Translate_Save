@@ -293,5 +293,17 @@
   "death.attack.cataclysm.emp": "%s变成了电烤鸡",
   "death.attack.cataclysm.emp.player": "%s变成了电烤鸡",
   "death.attack.cataclysm.abyssal_burn": "%s已离开此维度",
-  "death.attack.cataclysm.abyssal_burn.player": "%s已离开此维度"
+  "death.attack.cataclysm.abyssal_burn.player": "%s已离开此维度",
+
+  "_ChatGPT": "",
+  "entity.cataclysm.amethyst_crab": "紫水晶蟹",
+  "item.cataclysm.bloom_stone_pauldrons": "绽放石肩甲",
+  "item.cataclysm.amethyst_crab_spawn_egg": "紫水晶蟹生成蛋",
+  "cataclysm.gui.altar_of_amethyst_blessing": "祝福",
+  "effect.cataclysm.blessing_of_amethyst": "紫水晶祝福",
+  "item.cataclysm.amethyst_crab_meat": "紫水晶蟹肉",
+  "item.cataclysm.amethyst_crab_shell": "紫水晶蟹壳",
+  "item.cataclysm.blessed_amethyst_crab_meat": "祝福的紫水晶蟹肉",
+  "item.cataclysm.blessed_amethyst_crab_meat.desc": "受到祝福效果影响。在祝福效果期间免疫黑暗、深渊恐惧和深渊灼烧",
+  "entity.cataclysm.earthquake": "地震"
 }
