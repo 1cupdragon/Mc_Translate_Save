@@ -1,0 +1,58 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:tropical_fish"
+        },
+        "title": {
+            "translate": "advancements.dungeons_arise.find_illager_corsair_or_illager_galley.json.title"
+        },
+        "description": {
+            "translate": "advancements.dungeons_arise.find_illager_corsair_or_illager_galley.json.description"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "dungeons_arise:wda_root",
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "dungeons_arise:illager_corsair"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "location1": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "location": {
+                                "structure": "dungeons_arise:illager_galley"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0",
+            "location1"
+        ]
+    ]
+}
