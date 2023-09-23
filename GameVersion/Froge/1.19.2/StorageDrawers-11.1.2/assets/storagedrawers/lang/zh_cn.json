@@ -148,10 +148,7 @@
     "storagedrawers.config.prop.enableFramedDrawers": "允许自定义抽屉",
     "storagedrawers.config.prop.enableFramedDrawers.tooltip": "自定义抽屉的材质。",
     "storagedrawers.config.addons": "扩展包",
-    "storagedrawers.config.addons.tooltip": [
-        "设定显示独立的扩充包标签。",
-        "每个包都使用自己的选项卡，而不是储物抽屉选项卡。"
-    ],
+    "storagedrawers.config.addons.tooltip": "设定显示独立的扩充包标签。每个包都使用自己的选项卡，而不是储物抽屉选项卡。",
     "storagedrawers.config.addons.showNEI": "在NEI中显示扩充包方块。",
     "storagedrawers.config.addons.showCreative": "在创造模式窗口中显示扩充包方块。",
     "storagedrawers.config.addons.separateTabs": "标签分类",
