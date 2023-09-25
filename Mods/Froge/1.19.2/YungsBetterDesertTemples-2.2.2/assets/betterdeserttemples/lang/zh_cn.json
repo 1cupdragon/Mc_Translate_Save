@@ -1,7 +1,7 @@
 {
   "_ChatGPT": "",
   "Use /locate structure betterdeserttemples:desert_temple instead!": "请使用/locate structure betterdeserttemples:desert_temple命令！",
-  "text.autoconfig.betterdeserttemples-fabric-1_19.title": "YUNG的更好的沙漠神庙",
+  "text.autoconfig.betterdeserttemples-fabric-1_19.title": "YUNG的沙漠神殿优化",
   "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.disableVanillaPyramids": "禁用原版金字塔",
   "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.disableVanillaPyramids.@Tooltip": "是否禁用原版沙漠金字塔。",
   "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.applyMiningFatigue": "应用挖掘疲劳",
