@@ -1,0 +1,66 @@
+{
+  "item.totw_modded.shattered_warp_stone": "破碎的传送石",
+  "item.totw_modded.warp_stone": "传送石",
+  "item.totw_modded.diamond_dust": "钻石粉尘",
+  "item.totw_modded.ametrine_dust": "紫黄水晶粉尘",
+  
+  "item.totw_modded.burning": "燃烧图标",
+  "item.totw_modded.warm": "温暖图标",
+  "item.totw_modded.comfy": "舒适图标",
+  "item.totw_modded.cold": "寒冷图标",
+  "item.totw_modded.freezing": "冰冻图标",
+  
+  "item.totw_modded.autumn": "秋季图标",
+  "item.totw_modded.dry": "干燥图标",
+  "item.totw_modded.spring": "春季图标",
+  "item.totw_modded.summer": "夏季图标",
+  "item.totw_modded.wet": "潮湿图标",
+  "item.totw_modded.winter": "冬季图标",
+  
+  "item.totw_modded.gunpowder_infused_ametrine": "火药淬紫黄水晶",
+  
+  "item.totw_modded.crushed_aquite_ore": "碎石蓝宝石矿石",
+  "item.totw_modded.crushed_charoite_ore": "碎紫晶石矿石",
+  "item.totw_modded.crushed_falsite_ore": "碎伪石矿石",
+  "item.totw_modded.crushed_horizonite_ore": "碎天际石矿石",
+  "item.totw_modded.crushed_ventium_ore": "碎风铜矿石",
+  
+  "item.totw_modded.worm_gu": "蠕虫胶",
+  
+  "item.totw_modded.void_wormed_sword": "虚空蠕虫剑",
+  "item.totw_modded.void_wormed_axe": "虚空蠕虫斧",
+  "item.totw_modded.void_wormed_shovel": "虚空蠕虫铲",
+  "item.totw_modded.void_wormed_pickaxe": "虚空蠕虫镐",
+  "item.totw_modded.void_wormed_hoe": "虚空蠕虫锄",
+  
+  "item.totw_modded.void_wormed_helmet": "虚空蠕虫头盔",
+  "item.totw_modded.void_wormed_chestplate": "虚空蠕虫胸甲",
+  "item.totw_modded.void_wormed_leggings": "虚空蠕虫护腿",
+  "item.totw_modded.void_wormed_boots": "虚空蠕虫靴子",
+  
+  "item.totw_modded.ur_ghast_heart": "尤尔地狱鬼心",
+  "item.totw_modded.armored_giant_heart": "装甲巨人之心",
+  "item.totw_modded.snow_queen_heart": "雪女之心",
+  "item.totw_modded.compressed_hearts": "压缩之心",
+  
+  "item.totw_modded.desh_helmet": "德什合金头盔头盔",
+  "item.totw_modded.desh_chestplate": "德什合金头盔胸甲",
+  "item.totw_modded.desh_leggings": "德什合金头盔护腿",
+  "item.totw_modded.desh_boots": "德什合金头盔靴",
+  
+  "itemGroup.totw_modded_tab": "维度创造插件",
+
+  "_ChatGPT": "",
+  "advancements.totw_modded.derelict_grass_tower.title": "乡村之旅",
+  "advancements.totw_modded.derelict_grass_tower.description": "在树林或田野中寻找古老的高塔",
+  "advancements.totw_modded.derelict_tower.title": "我就这么发现的...",
+  "advancements.totw_modded.derelict_tower.description": "找到一座古老的高塔",
+  "advancements.totw_modded.ice_tower.title": "冰冷刺骨",
+  "advancements.totw_modded.ice_tower.description": "找到一座冰冷的高塔",
+  "advancements.totw_modded.jungle_tower.title": "香蕉？",
+  "advancements.totw_modded.jungle_tower.description": "在丛林中找到一座高塔",
+  "advancements.totw_modded.regular_tower.title": "清新的空气",
+  "advancements.totw_modded.regular_tower.description": "不错，但我该如何到达高塔顶？",
+  "advancements.totw_modded.root.title": "旷野之息高塔：再重制",
+  "advancements.totw_modded.root.description": "你能攀登上所有的高塔并激活链接吗？"
+}
